@@ -13,3 +13,6 @@ namespace MidLandPath
         public int Location { get; set; }
     }
 }
+
+
+// Гитхаб зло
